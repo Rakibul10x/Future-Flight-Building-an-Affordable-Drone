@@ -102,6 +102,8 @@ void loop() {
     <li>🔧 Open-source design enables <b>customization and future enhancements</b>.</li>
 </ul>
 
+<hr>
+
 <h2>🧩 Project Components</h2>
 
 <p>Below is a list of the key components used in building the Future Flight drone:</p>
@@ -124,16 +126,12 @@ void loop() {
 
 <p>Below is a list of the key components used in the Future Flight drone project:</p>
 
-<table align="center" border="0" cellpadding="10">
-    <tr>
-        <td align="center">
-            <a href="https://raw.githubusercontent.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/main/component_list.jpg" target="_blank">
-                <img src="https://github.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/blob/main/Component%20List.png" alt="Component List" width="300">
-            </a>
-            <p>📸 Component List – All the major components used in the drone.</p>
-        </td>
-    </tr>
-</table>
+<div align="center">
+    <a href="https://raw.githubusercontent.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/main/component_list.jpg" target="_blank">
+        <img src="https://github.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/blob/main/Component%20List.png" alt="Component List" width="300">
+    </a>
+    <p>📸 Component List – All the major components used in the drone.</p>
+</div>
 
 <hr>
 
@@ -141,9 +139,11 @@ void loop() {
 
 <p>Below is the schematic diagram outlining the wiring and connections of the drone's components:</p>
 
-<a href="https://raw.githubusercontent.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/main/Schematic%20Diagram.png" target="_blank">
-    <img src="https://raw.githubusercontent.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/main/Schematic%20Diagram.png" alt="Circuit Schematic" width="80%" style="display:block; margin:auto;">
-</a>
+<div align="center">
+    <a href="https://raw.githubusercontent.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/main/Schematic%20Diagram.png" target="_blank">
+        <img src="https://raw.githubusercontent.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/main/Schematic%20Diagram.png" alt="Circuit Schematic" width="80%" style="display:block; margin:auto;">
+    </a>
+</div>
 
 <p>This diagram provides a clear understanding of the electrical system's integration, ensuring smooth operation of the drone.</p>
 
@@ -153,22 +153,19 @@ void loop() {
 
 <p>Watch the performance test of the Future Flight drone. The flight test includes key aspects such as stability, range, and battery life:</p>
 
-<table align="center" border="0" cellpadding="10">
-    <tr>
-        <td align="center">
-            <a href="https://raw.githubusercontent.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/main/Flight%20Test%20and%20Performance%20Analysis-1.png" target="_blank">
-                <img src="https://raw.githubusercontent.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/main/Flight%20Test%20and%20Performance%20Analysis-1.png" alt="Flight Test" width="300">
-            </a>
-            <p>📸 Flight Test – The drone in action during its first flight.</p>
-        </td>
-        <td align="center">
-            <a href="https://raw.githubusercontent.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/main/performance_analysis.jpg" target="_blank">
-                <img src="https://github.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/blob/main/Flight%20Test%20and%20Performance%20Analysis-2.png" alt="Performance Analysis" width="300">
-            </a>
-            <p>📸 Performance Analysis – Measuring the drone's flight stability, speed, and efficiency.</p>
-        </td>
-    </tr>
-</table>
+<div align="center">
+    <a href="https://raw.githubusercontent.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/main/Flight%20Test%20and%20Performance%20Analysis-1.png" target="_blank">
+        <img src="https://raw.githubusercontent.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/main/Flight%20Test%20and%20Performance%20Analysis-1.png" alt="Flight Test" width="300">
+    </a>
+    <p>📸 Flight Test – The drone in action during its first flight.</p>
+</div>
+
+<div align="center">
+    <a href="https://raw.githubusercontent.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/main/performance_analysis.jpg" target="_blank">
+        <img src="https://github.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/blob/main/Flight%20Test%20and%20Performance%20Analysis-2.png" alt="Performance Analysis" width="300">
+    </a>
+    <p>📸 Performance Analysis – Measuring the drone's flight stability, speed, and efficiency.</p>
+</div>
 
 <hr>
 
