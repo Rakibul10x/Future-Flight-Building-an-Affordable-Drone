@@ -128,7 +128,7 @@ void loop() {
     <tr>
         <td align="center">
             <a href="https://raw.githubusercontent.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/main/component_list.jpg" target="_blank">
-                <img src="https://raw.githubusercontent.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/main/component_list.jpg" alt="Component List" width="300">
+                <img src="https://github.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/blob/main/Component%20List.png" alt="Component List" width="300">
             </a>
             <p>📸 Component List – All the major components used in the drone.</p>
         </td>
