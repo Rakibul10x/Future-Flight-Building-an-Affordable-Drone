@@ -155,7 +155,7 @@ void loop() {
         </td>
         <td align="center">
             <a href="https://raw.githubusercontent.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/main/performance_analysis.jpg" target="_blank">
-                <img src="https://raw.githubusercontent.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/main/performance_analysis.jpg" alt="Performance Analysis" width="300">
+                <img src="https://github.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/blob/main/Flight%20Test%20and%20Performance%20Analysis-2.png" alt="Performance Analysis" width="300">
             </a>
             <p>📸 Performance Analysis – Measuring the drone's flight stability, speed, and efficiency.</p>
         </td>
