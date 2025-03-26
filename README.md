@@ -122,13 +122,31 @@ void loop() {
 
 <hr>
 
+<h2>🧩 Project Components</h2>
+
+<p>Below is a list of the key components used in building the Future Flight drone:</p>
+
+<ul>
+    <li>🔋 <b>LiPo Battery (2200mAh, 11.1V, 3S)</b> – Ensures reliable and long-lasting power for flight operations.</li>
+    <li>🛠️ <b>EMAX Motors</b> – High-performance motors designed for stable and efficient propulsion.</li>
+    <li>⚙️ <b>30A ESCs</b> – Precision electronic speed controllers for optimal motor control.</li>
+    <li>📡 <b>FLYSKY FS-i6 Transmitter & Receiver</b> – Enables seamless wireless communication for flight control.</li>
+    <li>📦 <b>KK2.1.5 Flight Controller</b> – The core of the drone’s navigation and stability management.</li>
+    <li>📊 <b>GPS Module</b> (optional) – For enhanced autonomous navigation and position hold.</li>
+    <li>🖥️ <b>Onboard Sensors</b> – Includes accelerometers, gyroscopes, and barometers for real-time flight adjustments.</li>
+</ul>
+
+<p>Here’s a visual breakdown of the components:</p>
+
+<hr>
+
 <h2>🧩 Component List</h2>
 
 <p>Below is a list of the key components used in the Future Flight drone project:</p>
 
 <div align="center">
     <a href="https://raw.githubusercontent.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/main/component_list.jpg" target="_blank">
-        <img src="https://github.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/blob/main/Component%20List.png" alt="Component List" width="300">
+        <img src="https://github.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/blob/main/Component%20List.png" alt="Component List" width="500">
     </a>
     <p>📸 Component List – All the major components used in the drone.</p>
 </div>
@@ -155,14 +173,14 @@ void loop() {
 
 <div align="center">
     <a href="https://raw.githubusercontent.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/main/Flight%20Test%20and%20Performance%20Analysis-1.png" target="_blank">
-        <img src="https://raw.githubusercontent.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/main/Flight%20Test%20and%20Performance%20Analysis-1.png" alt="Flight Test" width="300">
+        <img src="https://raw.githubusercontent.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/main/Flight%20Test%20and%20Performance%20Analysis-1.png" alt="Flight Test" width="500">
     </a>
     <p>📸 Flight Test – The drone in action during its first flight.</p>
 </div>
 
 <div align="center">
     <a href="https://raw.githubusercontent.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/main/performance_analysis.jpg" target="_blank">
-        <img src="https://github.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/blob/main/Flight%20Test%20and%20Performance%20Analysis-2.png" alt="Performance Analysis" width="300">
+        <img src="https://github.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/blob/main/Flight%20Test%20and%20Performance%20Analysis-2.png" alt="Performance Analysis" width="500">
     </a>
     <p>📸 Performance Analysis – Measuring the drone's flight stability, speed, and efficiency.</p>
 </div>
