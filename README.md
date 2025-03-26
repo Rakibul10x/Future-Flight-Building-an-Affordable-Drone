@@ -118,11 +118,19 @@ void loop() {
 
 <p>Here’s a visual breakdown of the components:</p>
 
+<hr>
+
+<h2>🧩 Component List</h2>
+
+<p>Below is a list of the key components used in the Future Flight drone project:</p>
+
 <table align="center" border="0" cellpadding="10">
     <tr>
         <td align="center">
-            <a href="https://github.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/blob/main/Component%20List.png" target="_blank"><img src="component_list.jpg" alt="Component List" width="300"></a>
-            <p>📸 Component List</p>
+            <a href="https://raw.githubusercontent.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/main/component_list.jpg" target="_blank">
+                <img src="https://raw.githubusercontent.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/main/component_list.jpg" alt="Component List" width="300">
+            </a>
+            <p>📸 Component List – All the major components used in the drone.</p>
         </td>
     </tr>
 </table>
