@@ -133,7 +133,9 @@ void loop() {
 
 <p>Below is the schematic diagram outlining the wiring and connections of the drone's components:</p>
 
-<a href="https://github.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/blob/main/Schematic%20Diagram.png" target="_blank"><img src="circuit_schematic.jpg" alt="Circuit Schematic" width="80%" style="display:block; margin:auto;"></a>
+<a href="https://github.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/blob/main/Schematic%20Diagram.png" target="_blank">
+    <img src="circuit_schematic.jpg" alt="Circuit Schematic" width="80%" style="display:block; margin:auto;">
+</a>
 
 <p>This diagram provides a clear understanding of the electrical system's integration, ensuring smooth operation of the drone.</p>
 
@@ -146,17 +148,22 @@ void loop() {
 <table align="center" border="0" cellpadding="10">
     <tr>
         <td align="center">
-            <a href="https://github.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/blob/main/Flight%20Test%20and%20Performance%20Analysis-1.png" target="_blank"><img src="https://github.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/blob/main/Flight%20Test%20and%20Performance%20Analysis-2.png" alt="Flight Test" width="300"></a>
+            <a href="https://github.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/blob/main/Flight%20Test%20and%20Performance%20Analysis-1.png" target="_blank">
+                <img src="https://github.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/blob/main/Flight%20Test%20and%20Performance%20Analysis-2.png" alt="Flight Test" width="300">
+            </a>
             <p>📸 Flight Test – The drone in action during its first flight.</p>
         </td>
         <td align="center">
-            <a href="performance_analysis.jpg" target="_blank"><img src="performance_analysis.jpg" alt="Performance Analysis" width="300"></a>
+            <a href="performance_analysis.jpg" target="_blank">
+                <img src="performance_analysis.jpg" alt="Performance Analysis" width="300">
+            </a>
             <p>📸 Performance Analysis – Measuring the drone's flight stability, speed, and efficiency.</p>
         </td>
     </tr>
 </table>
 
 <hr>
+
 
 
 <h2>🔗 Get Involved & Build Your Own Future Flight Drone!</h2>
