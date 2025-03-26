@@ -121,7 +121,7 @@ void loop() {
 <table align="center" border="0" cellpadding="10">
     <tr>
         <td align="center">
-            <a href="component_list.jpg" target="_blank"><img src="component_list.jpg" alt="Component List" width="300"></a>
+            <a href="https://github.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/blob/main/Component%20List.png" target="_blank"><img src="component_list.jpg" alt="Component List" width="300"></a>
             <p>📸 Component List</p>
         </td>
     </tr>
@@ -133,7 +133,7 @@ void loop() {
 
 <p>Below is the schematic diagram outlining the wiring and connections of the drone's components:</p>
 
-<a href="circuit_schematic.jpg" target="_blank"><img src="circuit_schematic.jpg" alt="Circuit Schematic" width="80%" style="display:block; margin:auto;"></a>
+<a href="https://github.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/blob/main/Schematic%20Diagram.png" target="_blank"><img src="circuit_schematic.jpg" alt="Circuit Schematic" width="80%" style="display:block; margin:auto;"></a>
 
 <p>This diagram provides a clear understanding of the electrical system's integration, ensuring smooth operation of the drone.</p>
 
@@ -146,7 +146,7 @@ void loop() {
 <table align="center" border="0" cellpadding="10">
     <tr>
         <td align="center">
-            <a href="flight_test.jpg" target="_blank"><img src="flight_test.jpg" alt="Flight Test" width="300"></a>
+            <a href="https://github.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/blob/main/Flight%20Test%20and%20Performance%20Analysis-1.png" target="_blank"><img src="https://github.com/Rakibul10x/Future-Flight-Building-an-Affordable-Drone/blob/main/Flight%20Test%20and%20Performance%20Analysis-2.png" alt="Flight Test" width="300"></a>
             <p>📸 Flight Test – The drone in action during its first flight.</p>
         </td>
         <td align="center">
